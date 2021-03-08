@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W27933
   title: བཀའ་ཐང་གསེར་ཕྲེང
   author: ''
-  volumes: {}
+  volumes:
+    6019d86731f84bfa8870a9a38a083619:
+      image_group_id: I4533
+      title: ''
+      volume_number: 1
+      total_pages: 798
